@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning 
        • Intro to Self-Driving Cars course which is part of the Self-Driving Cars Specialization on Coursera by University of Toronto
-       • Autonomous Mobile Robots course on EdX by ETHzürich 
-
+       • Autonomous Mobile Robots course on EdX by ETHx 
 - 📫 How to reach me on LinkedIn @ https://www.linkedin.com/in/salmaz-ibrahim/
 
 <!---
