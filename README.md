@@ -1,15 +1,10 @@
 - 👋 Hi, I’m @salmaz-ibrahim
 - 👀 I’m interested in 
     🚗 Autonomous Vehicles(AV) are Transformational Technology in Engineering.
-    📊 Data Analysis.
-    🎙️ Voice Acting.
-    ⌨️ Translation(AR,EN and DE-AT).
-    🖌️Digital Art.
-    🖥️ Graphic Design.
+  
 
 - 🌱 I’m currently learning 
-       • Intro to Self-Driving Cars course which is part of the Self-Driving Cars Specialization on Coursera by University of Toronto
-       • Autonomous Mobile Robots course on EdX by ETHx 
+       • Embedded Systems Advanced Nanodegree on Udacity sponsered by Egyptfwd x Sprints 
 - 📫 How to reach me on LinkedIn @ https://www.linkedin.com/in/salmaz-ibrahim/
 
 <!---
